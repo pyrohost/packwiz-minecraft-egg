@@ -5,7 +5,7 @@
         "update_url": null
     },
     "exported_at": "2023-12-09T20:27:58-08:00",
-    "name": "TEMP-Packwiz",
+    "name": "Packwiz",
     "author": "eggs@pyro.host",
     "description": "Packwiz is a command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates!",
     "features": [
